@@ -40,6 +40,8 @@ template {
   display: none;
 }
 a {
+  color: #333;
+  text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
